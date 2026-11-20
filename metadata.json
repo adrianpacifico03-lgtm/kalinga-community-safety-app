@@ -1,0 +1,6 @@
+{
+  "name": "KALINGA — Community Preparedness",
+  "description": "Community emergency preparedness and safety companion for organizing supplies, offline survival guides, safe locations, and emergency contacts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
